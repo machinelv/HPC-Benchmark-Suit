@@ -1,0 +1,87 @@
+[submodule "ccs-qcd"]
+	path = ccs-qcd
+	url = https://github.com/fiber-miniapp/ccs-qcd
+[submodule "ffvc-mini"]
+	path = ffvc-mini
+	url = https://github.com/fiber-miniapp/ffvc-mini
+[submodule "nicam-dc-mini"]
+	path = nicam-dc-mini
+	url = https://github.com/fiber-miniapp/nicam-dc-mini
+[submodule "mVMC-mini"]
+	path = mVMC-mini
+	url = https://github.com/fiber-miniapp/mVMC-mini
+[submodule "ngsa-mini"]
+	path = ngsa-mini
+	url = https://github.com/fiber-miniapp/ngsa-mini
+[submodule "ntchem-mini"]
+	path = ntchem-mini
+	url = https://github.com/fiber-miniapp/ntchem-mini
+[submodule "ffb-mini"]
+	path = ffb-mini
+	url = https://github.com/fiber-miniapp/ffb-mini
+[submodule "ExaMiniMD"]
+	path = ExaMiniMD
+	url = https://github.com/ECP-copa/ExaMiniMD
+[submodule "Quicksilver"]
+	path = Quicksilver
+	url = https://github.com/LLNL/Quicksilver
+[submodule "ExaMPM"]
+	path = ExaMPM
+	url = https://github.com/ECP-copa/ExaMPM
+[submodule "SNAP"]
+	path = SNAP
+	url = https://github.com/lanl/SNAP
+[submodule "Cabana"]
+	path = Cabana
+	url = https://github.com/ECP-copa/Cabana.git
+[submodule "codesign-kernels"]
+	path = codesign-kernels
+	url = https://github.com/E3SM-Project/codesign-kernels.git
+[submodule "GAMESS_RI-MP2_MiniApp"]
+	path = GAMESS_RI-MP2_MiniApp
+	url = https://github.com/jkwack/GAMESS_RI-MP2_MiniApp.git
+[submodule "fftx"]
+	path = fftx
+	url = https://github.com/spiral-software/fftx.git
+[submodule "IAMR"]
+	path = IAMR
+	url = https://github.com/AMReX-Codes/IAMR.git
+[submodule "RIOPA.jl"]
+	path = RIOPA.jl
+	url = https://github.com/ORNL/RIOPA.jl.git
+[submodule "goulash"]
+	path = goulash
+	url = https://github.com/LLNL/goulash.git
+[submodule "FlexFlow"]
+	path = FlexFlow
+	url = https://github.com/flexflow/FlexFlow/
+[submodule "miniGAN"]
+	path = miniGAN
+	url = https://github.com/SandiaMLMiniApps/miniGAN
+[submodule "CRADL"]
+	path = CRADL
+	url = https://github.com/LLNL/CRADL
+[submodule "training"]
+	path = training
+	url = https://github.com/mlcommons/training
+[submodule "inference"]
+	path = inference
+	url = https://github.com/mlcommons/inference
+[submodule "storage"]
+	path = storage
+	url = https://github.com/mlcommons/storage
+[submodule "SciMLBenchmarks.jl"]
+	path = SciMLBenchmarks.jl
+	url = https://github.com/SciML/SciMLBenchmarks.jl
+[submodule "hypar"]
+	path = hypar
+	url = https://github.com/debog/hypar.git
+[submodule "hpcg"]
+	path = hpcg
+	url = https://github.com/hpcg-benchmark/hpcg.git
+[submodule "hpl-2.3"]
+	path = hpl-2.3
+	url = https://github.com/machinelv/hpl.git
+[submodule "MODYLAS_1.1.0"]
+	path = MODYLAS_1.1.0
+	url = https://github.com/machinelv/MODYLAS.git
